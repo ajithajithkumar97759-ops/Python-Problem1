@@ -1,3 +1,5 @@
+
+
 class VGLUGcompany:
     def __init__(self,name,age,id,salary,phone):
         self.name=name
